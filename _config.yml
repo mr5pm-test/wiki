@@ -1,0 +1,11 @@
+title: Wiki
+description: AI-processed document repository
+theme: minima
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: true
+collections:
+  documents:
+    output: true
+permalink: /:slug
