@@ -1,7 +1,13 @@
 # Wiki Index
 
-Welcome to your personal knowledge base. Documents processed by AI will appear here.
+문서 목록 — AI가 정리한 문서들이 여기에 모입니다.
 
-## Documents
+## 문서 목록
 
-_(No documents yet — add files to get started)_
+| 문서 | 태그 | 날짜 |
+|------|------|------|
+| [sample-entry.md](sample-entry.md) | #테스트 #wiki | 2026-05-06 |
+
+---
+
+*파일이 추가되면 자동으로 이 인덱스가 업데이트됩니다.*
